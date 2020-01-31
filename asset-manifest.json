@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Auth0_ReactApp/static/css/main.4d89ea0b.chunk.css",
-    "main.js": "/Auth0_ReactApp/static/js/main.e57a8548.chunk.js",
-    "main.js.map": "/Auth0_ReactApp/static/js/main.e57a8548.chunk.js.map",
+    "main.js": "/Auth0_ReactApp/static/js/main.09d8be3e.chunk.js",
+    "main.js.map": "/Auth0_ReactApp/static/js/main.09d8be3e.chunk.js.map",
     "runtime~main.js": "/Auth0_ReactApp/static/js/runtime~main.9a9fa874.js",
     "runtime~main.js.map": "/Auth0_ReactApp/static/js/runtime~main.9a9fa874.js.map",
     "static/css/2.11b452ed.chunk.css": "/Auth0_ReactApp/static/css/2.11b452ed.chunk.css",
     "static/js/2.e8ee9867.chunk.js": "/Auth0_ReactApp/static/js/2.e8ee9867.chunk.js",
     "static/js/2.e8ee9867.chunk.js.map": "/Auth0_ReactApp/static/js/2.e8ee9867.chunk.js.map",
     "index.html": "/Auth0_ReactApp/index.html",
-    "precache-manifest.85ef5228c51c5731dfe7ee4485f8dfc2.js": "/Auth0_ReactApp/precache-manifest.85ef5228c51c5731dfe7ee4485f8dfc2.js",
+    "precache-manifest.e2be52cd4b6f3d6e96b99a7945eae706.js": "/Auth0_ReactApp/precache-manifest.e2be52cd4b6f3d6e96b99a7945eae706.js",
     "service-worker.js": "/Auth0_ReactApp/service-worker.js",
     "static/css/2.11b452ed.chunk.css.map": "/Auth0_ReactApp/static/css/2.11b452ed.chunk.css.map",
     "static/css/main.4d89ea0b.chunk.css.map": "/Auth0_ReactApp/static/css/main.4d89ea0b.chunk.css.map",
